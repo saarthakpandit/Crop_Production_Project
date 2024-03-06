@@ -13,17 +13,17 @@ Data Visualization using Excel, Power BI, and Tableau
    
 # Data Source:
 
-1. *Data source* - This dataset provides extensive details on agricultural production statistics in India, gathered from the Indian government's Area Production Statistics (APS) database
+1. **Data source** - This dataset provides extensive details on agricultural production statistics in India, gathered from the Indian government's Area Production Statistics (APS) database
    
-2. *Link* - https://aps.dac.gov.in/APY/Public_Report1.aspx
+2. **Link** - https://aps.dac.gov.in/APY/Public_Report1.aspx
    
-3. *Dataset* - APY.csv
+3. **Dataset** - APY.csv
 
-4. *Microsoft Excel Dashboard* - APYCropProductionProject.xlsx
+4. **Microsoft Excel Dashboard** - APYCropProductionProject.xlsx
 
-5. *Power BI Dashboard* - CropProductionProject.pbix
+5. **Power BI Dashboard** - CropProductionProject.pbix
 
-6. *Tableau Dashboard* - CropProductionProjectFinal.twbx
+6. **Tableau Dashboard** - CropProductionProjectFinal.twbx
    
 # Key Findings:
 
