@@ -1,4 +1,4 @@
-# Data_Visualization_Project
+# Crop_Production_Project
 Data Visualization using Excel, Power BI, and Tableau
 
 # Exploring Crop Production in India: A Data Visualization Project
